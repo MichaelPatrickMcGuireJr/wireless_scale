@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>scale/arrow.png</file>
+        <file>scale/scale.png</file>
+        <file>scale/window.png</file>
+    </qresource>
+</RCC>

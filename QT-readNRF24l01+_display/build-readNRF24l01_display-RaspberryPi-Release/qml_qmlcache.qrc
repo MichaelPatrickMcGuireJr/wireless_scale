@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="scale/arrow.png">../readNRF24l01_display/scale/arrow.png</file>
+        <file alias="scale/scale.png">../readNRF24l01_display/scale/scale.png</file>
+        <file alias="scale/window.png">../readNRF24l01_display/scale/window.png</file>
+    </qresource>
+</RCC>
